@@ -7,6 +7,6 @@
     <title>403</title>
 </head>
 <body>
-    <p>Error 403 - Forbidden Access</p>
+    <p>Error 403. - Forbidden Access</p>
 </body>
 </html>
