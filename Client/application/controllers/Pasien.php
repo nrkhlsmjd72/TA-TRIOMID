@@ -43,7 +43,7 @@ class Pasien extends CI_Controller
 		$this->load->view('en_pasien');
 	}
 
-	// buat fungsi untuk simpan data mahasiswa...
+	// buat fungsi untuk simpan data mahasiswa......
 	function setSave()
 	{
 		$this->client->http_header($this->key_bearer);
