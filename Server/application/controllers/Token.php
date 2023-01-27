@@ -15,7 +15,7 @@ class Token extends Server
 {
     function configToken()
     {
-        $config['exp'] = 36000; //detik
+        $config['exp'] = 604800; //detik dalam seminggu
         $config['key'] = 'key-jwt';
         return $config;
     }
